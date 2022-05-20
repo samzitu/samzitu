@@ -1,10 +1,10 @@
 - Novice Developer
 
-<div aling=center>
+<div aling="center">
 <a href="https://github.com/samzitu">
-<img height="180em" src="https://github-readne-stats.vercel.app/api?username=samzitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samzitu&layout=compact&langs_count=16&theme=dark"/>
-<a>
+<img height="130em" src="https://github-readne-stats.vercel.app/api?username=samzitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samzitu&layout=compact&langs_count=16&theme=dark"/>
+</a>
 </div>
   
 <div>
