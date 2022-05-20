@@ -1,6 +1,6 @@
 <div>
-<h1 align="center">Samuel Borges
-  <p align="center">Estou apredendo a programar.
+<h1 align="center">Samuel Borges</h1>
+  <p align="center">Estou apredendo a programar.</p>
     
 <div align="center">
   <a href="https://github.com/samzitu">
