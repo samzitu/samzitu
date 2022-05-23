@@ -1,3 +1,6 @@
+<div>
+<img align="center" alt="Scratch" height="80" width="90" src="https://media.discordapp.net/attachments/885873816159543357/978323191183319091/kindpng_1024078.png">
+</div><br>
 
 <div>
 <h1 align="center">Sobre mim:</h1>
@@ -13,5 +16,5 @@
   
 ### Linguagens que eu sei:
 <div>
-<img align="center" alt="Scratch" height="30" width="40" src="https://img.shields.io/badge/Scratch-4097FF?style-for-the-b adge&logo-Scratch&logoColor-white">
+<img align="center" alt="Scratch" height="40" width="50" src="https://img.shields.io/badge/Scratch-4097FF?style-for-the-b adge&logo-Scratch&logoColor-white">
 </div><br>
