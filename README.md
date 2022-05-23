@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Samuel Borges</h1>
-  <p1 align="center">Estou apredendo a programar.</p1>
+  <p1 align="center">- Estou apredendo a programar.</p1>
   
  ### Estátisticas:
 <div align="center">
